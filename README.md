@@ -11,7 +11,9 @@ by Mitja Nikolaus, Emmanuelle Salin, Stephane Ayache, Abdellah Fourtassi, and Be
 ## Data
 
 All images with image ids occurring in [data/sentence-semantics/eval_set.json](eval_set.json) have to be downloaded to
-~/data/multimodal_evaluation/images .
+[~/data/multimodal_evaluation/images](~/data/multimodal_evaluation/images). Feel free to
+[contact me](mailto:mitja.nikolaus@univ-amu.fr) for sharing a zip
+of the relevant images and pre-extracted image features!
 
 ### Python Environments:
 
