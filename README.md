@@ -1,5 +1,7 @@
 # Multimodal Predicate-Noun Dependencies
 
+Code for the EMNLP 2022 paper "Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies?"
+by Mitja Nikolaus, Emmanuelle Salin, Stephane Ayache, Abdellah Fourtassi, and Benoit Favre.
 
 
 ## Installation
