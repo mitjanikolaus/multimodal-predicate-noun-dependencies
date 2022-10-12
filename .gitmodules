@@ -1,0 +1,15 @@
+[submodule "src/Oscar"]
+	path = src/Oscar
+	url = git@github.com:mitjanikolaus/Oscar.git
+[submodule "src/ViLT"]
+	path = src/ViLT
+	url = git@github.com:dandelin/ViLT.git
+[submodule "src/volta"]
+	path = src/volta
+	url = git@github.com:mitjanikolaus/volta.git
+[submodule "src/vilbert-multi-task"]
+	path = src/vilbert-multi-task
+	url = git@github.com:mitjanikolaus/vilbert-multi-task.git
+[submodule "src/UNITER"]
+	path = src/UNITER
+	url = git@github.com:mitjanikolaus/UNITER.git

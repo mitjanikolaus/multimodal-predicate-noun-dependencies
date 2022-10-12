@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Image files
+*.jpg
+*.jpeg
+
+# Image Region files
+*.tsv
+
+# Models
+*.caffemodel
+*.bin
+*.pt
+*.ckpt
+
+# Data
+data/conceptual_captions/
+
+# Distribution / packaging
+probing_env/
+data/img/
+representations/
+models
+runs/sentence-semantics/*/*.png
+runs/sentence-semantics/*.pdf
+runs/sentence-semantics/*/*.pdf
+*.tex
+checkpoints/
+
+.idea
