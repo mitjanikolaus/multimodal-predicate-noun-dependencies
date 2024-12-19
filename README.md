@@ -10,10 +10,15 @@ by Mitja Nikolaus, Emmanuelle Salin, Stephane Ayache, Abdellah Fourtassi, and Be
 
 ## Data
 
-All images with image ids occurring in [data/sentence-semantics/eval_set.json](data/sentence-semantics/eval_set.json) have to be downloaded to
-[~/data/multimodal_evaluation/images](~/data/multimodal_evaluation/images). Feel free to
-[contact me](mailto:mitja.nikolaus@cnrs.fr) for sharing a zip
-of the relevant images and pre-extracted image features!
+The evaluation triplets are defined in [data/sentence-semantics/eval_set.json](data/sentence-semantics/eval_set.json). This json contains a list of triplets, 
+each defining the target sentence ("sentence_target"), distractor sentence ("sentence_distractor"), and a reference to the image ID ("img_filename"). 
+Pairs of examples and corresponding counterexamples are subsequent elements in the list (e.g. the first pair is found at indices 0 and 1).
+
+All images with image IDs occurring in [data/sentence-semantics/eval_set.json](data/sentence-semantics/eval_set.json) have to be downloaded to
+~/data/multimodal_evaluation/images. Feel free to
+[contact me](mailto:mitja.nikolaus@cnrs.fr) for sharing a zip of the relevant images and pre-extracted image features!
+
+
 
 ### Python Environments:
 
